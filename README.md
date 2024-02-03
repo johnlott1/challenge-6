@@ -4,7 +4,7 @@ An application that utilizes the third-party API, OpenWeather, to retrieve weath
 
 # Screenshot
 
-![weather dashboard screenshot](./Assets/images/OrlandoWeather.png);
+![weather dashboard screenshot](/Assets/images/OrlandoWeather.png);
 
 # Link to Deployed Application
 
